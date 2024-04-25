@@ -1,3 +1,4 @@
+/* state management library zustand */
 import { create } from 'zustand';
 
 interface uploadModalStore {
